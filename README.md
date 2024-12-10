@@ -4,7 +4,7 @@
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=crud_siswa
+    DB_DATABASE=siswa
     DB_USERNAME=YOUR_USERNAME
     DB_PASSWORD=YOUR_PASSWORD
     ```
