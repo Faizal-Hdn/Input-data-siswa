@@ -1,4 +1,5 @@
 ## Panduan Penggunaan
+- cp .env.example .env
 - Setting database nya di .env sebagai berikut:
     ```env
     DB_CONNECTION=mysql
